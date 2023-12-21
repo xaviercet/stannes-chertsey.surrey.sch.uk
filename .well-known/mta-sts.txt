@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
 max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
+mx: d231581.a.ess.uk.barracudanetworks.com
+mx: d231581.b.ess.uk.barracudanetworks.com
+mx: stanneschertsey-surrey-sch-uk01i.mail.protection.outlook.com
